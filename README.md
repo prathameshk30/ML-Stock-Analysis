@@ -1,0 +1,2 @@
+# Stock_analysis_using_regression_analysis
+The objective for this publication is to understand one way on analyzing stocks using Python Code.  To start learning and analyzing stocks,  we will start off by taking a quick look at the historical stocks prices. This will be done by extracting latest stocks data from pandas web-data reader and Yahoo Finance. Then we will try to view the data through exploratory analysis such as correlation heatmap, matplotlib visualization, and prediction analysis using Linear Analysis and K Nearest Neighbor (KNN).
